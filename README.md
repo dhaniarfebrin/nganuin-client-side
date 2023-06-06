@@ -1,4 +1,5 @@
 # nganuin
+for study purpose
 
 ## Project setup
 ```
